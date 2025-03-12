@@ -1,0 +1,5 @@
+if __name__="__main__"
+is used so that function run only when the scipt is called directly not on the import of a module 
+
+webbrowser is an in built module 
+The webbrowser module in Python provides a convenient way to open web pages in the default web browser. It allows automation of web-related tasks, such as opening URLs, searching the web, or interacting with web-based applications.
